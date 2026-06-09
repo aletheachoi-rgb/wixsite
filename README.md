@@ -23,6 +23,7 @@ Then visit `http://localhost:8000`.
 
 ## Customization checklist
 
+- Use `WIX_EDITOR_BUILD_GUIDE.md` for paste-ready Wix page copy, page descriptions, SEO descriptions, and manual editor layout instructions.
 - Replace visual placeholders with final project images.
 - Add the final Telar embed URL on the Project 2 page.
 - Replace carousel placeholders with the final Instagram slide images.
